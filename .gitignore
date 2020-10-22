@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Eclipse
 .metadata
 bin/
@@ -67,10 +68,29 @@ $RECYCLE.BIN/
 
 ## Package Files #
 *.war
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+>>>>>>> 1cfadf624391468a72ad6f379376c520996b63ff
 *.ear
 *.zip
 *.tar.gz
 *.rar
+<<<<<<< HEAD
 *.jar
 
 ## Tortoise GIT
@@ -82,3 +102,8 @@ build/
 
 /src/main/generated
 logs
+=======
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 1cfadf624391468a72ad6f379376c520996b63ff
