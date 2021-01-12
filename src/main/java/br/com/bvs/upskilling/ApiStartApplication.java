@@ -1,3 +1,6 @@
+/*
+ * Aplicação Exemplo
+ */
 package br.com.bvs.upskilling;
 
 import org.springframework.boot.SpringApplication;
