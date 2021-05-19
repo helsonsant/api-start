@@ -1,0 +1,1 @@
+insert into tabela (campo1, campo2)values  ("1", "A"),        ("2", "2021-05-19"),        ("3", "2021-05-19"),        ("4", "B");
